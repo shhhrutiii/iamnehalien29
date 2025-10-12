@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nihal  
+# 👋 Hi, I'm Nehal  
 
 🎯 **Aspiring Python Developer | Tech Enthusiast | Lifelong Learner**  
 
