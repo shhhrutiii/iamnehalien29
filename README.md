@@ -1,14 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Nihal  
+
+🎯 **Aspiring Python Developer | Tech Enthusiast | Lifelong Learner**  
+
+Welcome to my GitHub profile! I’m passionate about writing clean and efficient code, learning new technologies, and solving real-world problems through programming.  
+
+---
+
+## 🚀 About Me  
+
+- 💻 I love working with **Python**, and I’m currently improving my skills through small projects and problem-solving.  
+- 🌱 Currently learning **data structures, algorithms, and web development with Flask/Django**.  
+- 🎯 My goal: Build real-world applications that make life easier.  
+- ⚡ Fun fact: I enjoy debugging — it’s like solving a puzzle!  
+
+---
+
+## 🛠️ Languages and Tools  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+---
 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me  
+
+- 📧 Email: [youremail@example.com](mailto:iamnehalien29@gmail.com)  
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/iamnehalien29/)  
+- 🐍 Check out my Python projects below!  
+
+---
+
+⭐ **“Code. Learn. Repeat.”**
