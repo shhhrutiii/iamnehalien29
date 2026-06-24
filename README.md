@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I’m passionate about writing clean and efficient
 
 ## 📫 Connect With Me  
 
-- 📧 Email: [youremail@example.com](mailto:iamnehalien29@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/iamnehalien29/)  
+- 📧 Email: (mailto:iamnehalien29@gmail.com)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/iamnehalien29/)  
 - 🐍 Check out my Python projects below!  
 
 ---
